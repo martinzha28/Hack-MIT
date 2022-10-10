@@ -1,7 +1,7 @@
 {
   "name": "hack-mit",
   "version": "0.1.0",
-  "homepage": "https://ricsign.github.io/hackmit2022",
+  "homepage": "https://hackmit2022.com",
   "private": true,
   "dependencies": {
     "@react-google-maps/api": "^2.13.1",
